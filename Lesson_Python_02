@@ -1,0 +1,2 @@
+colors = ['red', 'gereen', 'blue']
+data = open('file.txt', 'a')
